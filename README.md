@@ -148,15 +148,7 @@ check_backups(sample_logs)
 
 ---
 
-## 🖼️ Screenshots To Include in Portfolio
 
-* Sysmon logs showing encryption behavior
-* Splunk dashboard with detection alert
-* VirusTotal hash verdict
-* TheHive case evidence timeline
-* Screenshot of blocked IP on firewall or DNS sinkhole
-
----
 
 ## 🔗 External References
 
